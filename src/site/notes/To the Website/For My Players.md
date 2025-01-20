@@ -3,7 +3,7 @@
 ---
 
 [[Locations/Auzora/Auzora\|Auzora]]
-[[Locations/Auzora/Tundraal Empire/Umbren\|Umbren]]
+[[Locations/Auzora/Tundraal Empire/Umbren/Umbren\|Umbren]]
 [[Locations/Auzora/Tundraal Empire/Tundraal Empire\|Tundraal Empire]]
 [[Locations/Auzora/Tundraal Empire/Edenlee/Edenlee\|Edenlee]]
 [[BTS Building/Crownsguard\|Crownsguard]]

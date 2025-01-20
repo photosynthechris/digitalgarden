@@ -3,7 +3,7 @@
 ---
 
 
-Small village south of [[Locations/Auzora/Tundraal Empire/Umbren\|Umbren]] 
+Small village south of [[Locations/Auzora/Tundraal Empire/Umbren/Umbren\|Umbren]] 
 Pop - ~400 
 Primary Export - Wheat and pork products 
 

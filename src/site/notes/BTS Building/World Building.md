@@ -11,15 +11,15 @@ How many total continents: 5
 
 Their names: [[Locations/Auzora/Auzora\|Auzora]], [[Stromyr\|Stromyr]], [[Locations/Auzora/Tundraal Empire/Tundraal Empire\|Tundraal Empire]], [[Isthil Coast\|Isthil Coast]], [[Aqotar\|Aqotar]]
 
-Where does session 0.5 occur: [[The Frog's Gullet\|The Frog's Gullet]]. A tavern in [[Locations/Auzora/Tundraal Empire/Umbren\|Umbren]], the capitol of the [[Locations/Auzora/Tundraal Empire/Tundraal Empire\|Tundraal Empire]]
+Where does session 0.5 occur: [[Locations/Auzora/Tundraal Empire/Umbren/The Frog's Gullet\|The Frog's Gullet]]. A tavern in [[Locations/Auzora/Tundraal Empire/Umbren/Umbren\|Umbren]], the capitol of the [[Locations/Auzora/Tundraal Empire/Tundraal Empire\|Tundraal Empire]]
 
-When: Autumn. Day before the [[Harvest Festival\|Harvest Festival]]
+When: Autumn. Day before the [[BTS Building/Events/Harvest Festival\|Harvest Festival]]
 
 Politics of Tundraal: Queen [[NPC/Allies/Nairidh Riley\|Nairidh Riley]] (Nareedth). No king. Well loved by the general populous. 
 
 Religion: While not official or enforced in Tundraal, there is a "Temple District" where multiple "prime deities" are worshiped openly
 
-Magic: In the [[Locations/Auzora/Tundraal Empire/Tundraal Empire\|Tundraal Empire]] and [[Isthil Coast\|Isthil Coast]] - it is fully open (warry in the main throughfares of [[Locations/Auzora/Tundraal Empire/Umbren\|Umbren]]; there is a wizards' college in the city though). In [[Aqotar\|Aqotar]], magic that is not primarily healing/nurturing is frowned upon in most main cities. In [[Stromyr\|Stromyr]] it is mainly looked at as a connection to nature and [[Enora\|Enora]] as a whole.
+Magic: In the [[Locations/Auzora/Tundraal Empire/Tundraal Empire\|Tundraal Empire]] and [[Isthil Coast\|Isthil Coast]] - it is fully open (warry in the main throughfares of [[Locations/Auzora/Tundraal Empire/Umbren/Umbren\|Umbren]]; there is a wizards' college in the city though). In [[Aqotar\|Aqotar]], magic that is not primarily healing/nurturing is frowned upon in most main cities. In [[Stromyr\|Stromyr]] it is mainly looked at as a connection to nature and [[Enora\|Enora]] as a whole.
 ## Prime Deities: 
 
 **[[Avandra\|Avandra]], The Change Bringer**
